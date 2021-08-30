@@ -1,0 +1,35 @@
+﻿  centralCache.cpp
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\centralCache.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\span.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\util.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\centralCache.cpp(46,21): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\centralCache.cpp(60,40): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+  pageCache.cpp
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\span.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\util.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.cpp(29,30): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.cpp(37,16): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  threadCache.cpp
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\threadCache.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\util.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\span.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\threadCache.cpp(9,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\threadCache.cpp(20,40): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\threadCache.cpp(66,44): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\threadCache.cpp(76,44): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+  tinyMalloc.cpp
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\tinyMalloc.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\pageCache.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\span.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\core\util.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\centralCache.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\tinyMalloc.cpp(32,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\tinyMalloc.cpp(36,61): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\tinyMalloc.cpp(41,20): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\liaokaimin\Desktop\tlmalloc\tlmalloc\tinyMalloc.cpp(62,17): warning C4244: “初始化”: 从“uint64_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  tlmalloc.vcxproj -> C:\Users\liaokaimin\Desktop\tlmalloc\x64\Debug\tlmalloc.exe
